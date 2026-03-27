@@ -8,7 +8,6 @@ This repository contains two main parts:
 ## File-by-File Guide
 
 ### Root Files
-- [Assignment.txt](Assignment.txt): Original assignment prompt and requirements.
 - [README.md](README.md): Project overview and usage notes (this file).
 
 ### Data
